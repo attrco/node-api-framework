@@ -1,0 +1,17 @@
+2021-12-11T11:33:51.451Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61b48c9ffe9abeb599ead63d | name: Mohammed sadik vk]
+2021-12-11T11:34:11.341Z [action: Error] [module: auth/service/auth] [user: app configuration] info: ReferenceError: Userdass is not defined
+2021-12-11T11:34:25.588Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61b48cc1fb9ad9a37bdb2869 | name: Mohammed sadik vk]
+2021-12-17T19:53:50.080Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61bceace4065b96e9758bd18 | name: Mohammed sadik vk]
+2021-12-17T19:54:48.896Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61bceb084065b96e9758bd1d | name: Admin]
+2021-12-17T20:30:06.079Z [action: Error] [module: auth/service/auth] [user: app configuration] info: ReferenceError: bcrypt is not defined
+2021-12-17T20:30:27.193Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61bcf3638101c4fca94a9889 | name: Admin]
+2021-12-17T20:32:07.649Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61bcf3c7c70ec83c85ba6133 | name: Admin]
+2021-12-17T20:32:26.528Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61bcf3da6ec89878f41d30ad | name: Admin]
+2021-12-17T20:32:46.239Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61bcf3ee04157a015463a415 | name: Admin]
+2021-12-17T20:33:35.987Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61bcf41f06ac5d384ea350d5 | name: Admin]
+2021-12-17T20:34:23.267Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61bcf44fdefe22f1c0e84225 | name: Admin]
+2021-12-17T20:34:44.765Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61bcf46480857c03d66b9bec | name: Admin]
+2021-12-17T20:35:12.665Z [action: Error] [module: auth/service/auth] [user: app configuration] info: ReferenceError: mobile is not defined
+2021-12-17T20:35:42.696Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61bcf49e87c479fc9788bf3f | name: Admin]
+2021-12-18T14:07:49.334Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61bdeb3595a30c3b50512f99 | name: Admin]
+2021-12-18T19:05:48.419Z [action: create] [module: auth/service/auth] [user: app configuration] info: create new user [ref: 61be310c8506272a3d3b83cd | name: Admin]

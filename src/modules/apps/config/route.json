@@ -1,0 +1,17 @@
+{
+    "routes": [
+        {
+            "method": "GET",
+            "path": "/check/health",
+            "action": "apps.checkHealth"
+        },
+        {
+            "method": "POST",
+            "path": "/install",
+            "action": "install.create",
+            "config": {
+                "policies": ["apiLimiter"]
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "routes": [
+        {
+            "method": "POST",
+            "path": "/login",
+            "action": "auth.login"
+        },
+        {
+            "method": "POST",
+            "path": "/registration",
+            "action": "auth.registration"
+        },
+        {
+            "method": "POST",
+            "path": "/roles",
+            "action": "roles.create"
+        },
+        {
+            "method": "PUT",
+            "path": "/roles/:id",
+            "action": "roles.update"
+        },
+        {
+            "method": "GET",
+            "path": "/roles/user",
+            "action": "roles.authUserRole",
+            "policies": {
+                "authorization": true
+            }
+        }
+    ]
+}
